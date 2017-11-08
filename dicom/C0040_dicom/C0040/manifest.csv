@@ -1,0 +1,2 @@
+id,institution,modality,age,sex,aneurysmType,aneurysmLocation,ruptureStatus,multipleAneurysms,medicalIstory
+C0040,NiguardaHospitalMilan,3D-RA,62,M,LAT,ICA,U,FALSE,N/A
